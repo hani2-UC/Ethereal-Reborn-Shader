@@ -1,6 +1,6 @@
 # Ethereal Reborn Shader 1.0.0
 
-Minecraft Java Edition向けに、見た目の変化を優先して一から組み直した幻想系シェーダーパックです。
+Minecraft Java Edition向けのシェーダーパックです。
 
 ## 主な表現
 
